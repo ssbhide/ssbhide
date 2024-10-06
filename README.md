@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there! My name is Sarang Bhide and I am currently an Undergraduate student at the University of Michigan studying Computer Science. Feel free to check out my projects!
 <!--
 **ssbhide/ssbhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
